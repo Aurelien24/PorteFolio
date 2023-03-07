@@ -79,9 +79,10 @@ nav input[type=checkbox]{
     display: none;
 }
 
-footer, h2{
+footer, h2, .centrer{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 /* Annimation menu + arrengement de l'allignement*/
